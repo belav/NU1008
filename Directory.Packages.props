@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="NUnit" Version="3.13.3" />
+  </ItemGroup>
+</Project>

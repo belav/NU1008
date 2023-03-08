@@ -1,0 +1,12 @@
+C:\projects\NU1008\NU1008\bin\Debug\net6.0\NU1008.deps.json
+C:\projects\NU1008\NU1008\bin\Debug\net6.0\NU1008.dll
+C:\projects\NU1008\NU1008\bin\Debug\net6.0\NU1008.pdb
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.csproj.AssemblyReference.cache
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.AssemblyInfoInputs.cache
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.AssemblyInfo.cs
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.csproj.CoreCompileInputs.cache
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.dll
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\refint\NU1008.dll
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\NU1008.pdb
+C:\projects\NU1008\NU1008\obj\Debug\net6.0\ref\NU1008.dll

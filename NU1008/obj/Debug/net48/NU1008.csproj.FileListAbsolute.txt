@@ -1,0 +1,11 @@
+C:\projects\NU1008\NU1008\bin\Debug\net48\NU1008.dll
+C:\projects\NU1008\NU1008\bin\Debug\net48\NU1008.pdb
+C:\projects\NU1008\NU1008\bin\Debug\net48\nunit.framework.dll
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.csproj.AssemblyReference.cache
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.AssemblyInfoInputs.cache
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.AssemblyInfo.cs
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.csproj.CoreCompileInputs.cache
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.csproj.CopyComplete
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.dll
+C:\projects\NU1008\NU1008\obj\Debug\net48\NU1008.pdb
